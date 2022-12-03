@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\bin\Debug\net7.0\EX19.exe
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\bin\Debug\net7.0\EX19.deps.json
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\bin\Debug\net7.0\EX19.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\bin\Debug\net7.0\EX19.dll
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\bin\Debug\net7.0\EX19.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.dll
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\refint\EX19.dll
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\EX19.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX19\obj\Debug\net7.0\ref\EX19.dll

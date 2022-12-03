@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\bin\Debug\net7.0\EX21.exe
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\bin\Debug\net7.0\EX21.deps.json
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\bin\Debug\net7.0\EX21.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\bin\Debug\net7.0\EX21.dll
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\bin\Debug\net7.0\EX21.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.dll
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\refint\EX21.dll
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\EX21.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\задания\Базовые Алгоритмы2\HW3\EX21\obj\Debug\net7.0\ref\EX21.dll
